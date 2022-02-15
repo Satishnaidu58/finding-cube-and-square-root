@@ -1,4 +1,4 @@
-cube = int(input(" Enter a number you want to find cube of"))
+cube = int(input(" Enter a number you want to find cube root of"))
 epsilon = 0.01
 num_guesses = 0
 low = 0
